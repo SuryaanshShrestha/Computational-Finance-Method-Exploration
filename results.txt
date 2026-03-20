@@ -1,0 +1,33 @@
+# strike prices
+X1: 120
+X2: 96
+
+# Black-Scholes formula
+
+EuCallX1BS: 5.0236808576470295 #European call with strike X1
+EuPutX1BS: 20.607010984145646  #European put with strike X1
+
+EuCallX2BS: 14.158868804789847 #European call with strike X2
+EuPutX2BS: 6.6255329059887345  #European put with strike X2
+
+# Trees
+
+EuCallX1Trees: 5.0236790423847815 #European call with strike X1
+EuPutX1Trees: 20.607009168883607  #European put with strike X1
+AmCallX1Trees: 5.0236790423847815 #American call with strike X1
+AmPutX1Trees: 21.927198754046557  #American put with strike X1
+
+EuCallX2Trees: 14.164503040654726 #European call with strike X2
+EuPutX2Trees: 6.631167141853641  #European put with strike X2
+AmCallX2Trees: 14.164503040654726 #American call with strike X2
+AmPutX2Trees: 6.8980457152516665  #American put with strike X2
+
+# Monte-Carlo
+
+EuCallX1MC: 5.007603323600257 #European call with strike X1
+EuPutX1MC: 20.63511437558069  #European put with strike X1
+
+EuCallX2MC: 14.183296432430378 #European call with strike X2
+EuPutX2MC: 6.562464772804639  #European put with strike X2
+
+COMMENTS # Any comments you would like to add should go below this line.
